@@ -11,9 +11,5 @@
 				"Editor"
 			]
 		},
-		{
-			"Name": "DeadPlugin",
-			"Enabled": true,
-		}
 	]
 }
